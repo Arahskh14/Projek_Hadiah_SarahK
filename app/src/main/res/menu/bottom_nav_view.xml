@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/empat"
+        android:title=""
+        android:drawablePadding="8dp"/>
+    <item
+        android:id="@+id/menu"
+        android:title=""
+        android:drawablePadding="8dp"
+        android:icon="@drawable/tiga"/>
+    <item
+        android:id="@+id/timer"
+        android:title=""
+        android:drawablePadding="8dp"
+        android:icon="@drawable/dua"/>
+    <item
+        android:id="@+id/person"
+        android:title=""
+        android:drawablePadding="8dp"
+        android:icon="@drawable/satu"/>
+
+</menu>
